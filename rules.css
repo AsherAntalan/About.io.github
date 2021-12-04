@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://images2.alphacoders.com/117/1173346.png");
+      background-repeat: no-repeat;
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
+  }
+  
+  .container{
+      
+      margin-top: 100px;
+      margin-left: 50px;
+      margin-right: 30px;
+  }
+  h1,h2,p{
+    color: white;
+   
+  }
+
+  p{ font-size: 20px;}
